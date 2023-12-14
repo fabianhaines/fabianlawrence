@@ -1,18 +1,29 @@
-JohnDoe Free Bootstrap landing page for personal and commercial use. Designed with ♥️ and creativity by Devcrud.com 
+Template Name: Minimal
+Template Author: Untree.co
+Template License: https://creativecommons.org/licenses/by/3.0/
+Author URI: https://untree.co/
 
-Product Page: https://wwww.devcrud.com/
+Twitter: https://twitter.com/Untree_co
+Facebook: https://web.facebook.com/Untree.co/
 
-Credits:
 
-    Demo Images:
-        Unsplash:       	(https://www.unsplash.com)
+CREDITS
 
-    Icons:
-		Themify Icons: 		(https://themify.me/themify-icons)
-
-	Other:
-		JQuery: 			(https://www.jquery.com)
-		Bootstrap: 			(https://www.getbootstrap.com)
-		Bootstrap Affix: 	(http://getbootstrap.com/javascript/#affix)  
-		Isotope: 			(https://isotope.metafizzy.co/) 
-		Google Maps:		(https://maps.google.com)
+* jQuery
+* Popper
+* Bootstrap
+* Fancybox
+* Unsplash
+* Owl Carousel
+* AOS
+* animateNumber
+* Waypoints
+* Bootstrap Datepicker
+* Google Fonts
+* Google Map
+* Circle Progress
+* Isotope
+* Imagesloaded
+* jQuery Easing
+* ScrollMagic
+* TweenMax
